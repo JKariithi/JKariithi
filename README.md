@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Janice Kariithi</h1>
 <h3 align="center">UI/UX designer</h3>
 
-- 🔭 I’m currently working on **Simple projects using C**
+- 🔭 I’m currently working on **my python skills**
 
 - 🌱 I’m currently learning **C,Python and Free cad**
 
-- 💬 Ask me about **UI/UX Design,HTML and CSS, 3D Modelling.**
+- 💬 Ask me about **UI/UX Design,HTML and CSS, 3D Modelling, Python programming.**
 
-- ⚡ Fun fact **I love to make people smile**
+- ⚡ Fun fact **I love to make people smile and learn new things everyday**
 
 
 
