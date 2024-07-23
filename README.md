@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janice Kariithi</h1>
 <h3 align="center">UI/UX designer</h3>
 
-- 🔭 I’m currently working on **my python skills**
+- 🔭 I’m currently working on **My First Django Project I am so excited**
 
 - 🌱 I’m currently learning **C,Python and Free cad**
 
