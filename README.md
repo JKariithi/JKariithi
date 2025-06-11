@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janice Kariithi</h1>
-<h3 align="center">Data Analyst and Architect</h3>
+<h3 align="center">Data Analyst and IoT Architect</h3>
 
 - 🔭 I’m currently working on **My Embedded Systems Portfolio**
 
