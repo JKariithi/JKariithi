@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janice Kariithi</h1>
-<h3 align="center">Data Analyst and IoT Architect</h3>
+<h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on **My Embedded Systems Portfolio**
+- 🔭 I’m currently working on **World Quant University Applied Datascience Lab**
 
 - 🌱 I’m currently learning **C++, Python, SQL, DBT and Star Schema**
 
-- 💬 Ask me about **UI/UX Design,HTML and CSS, 3D Modelling, Python programming, C++ Programming, Embeddded Systems and  Data Analysis.**
+- 💬 Ask me about **UI/UX Design,HTML and CSS, 3D Modelling, Python programming, C++ Programming, Embeddded Systems, Data science and  Data Analysis.**
 
 - ⚡ Fun fact **I love to make people smile and learn new things everyday**
 
